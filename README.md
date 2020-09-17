@@ -1,6 +1,6 @@
 ## Jamming
 
-React Front-end static webpage for creating Spotify playlists 
+Dynamically updated static webpage for creating Spotify playlists, built with React
 
 Example static webpage hosted at:
 https://surgesli.surge.sh/
